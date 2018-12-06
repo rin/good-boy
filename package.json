@@ -1,0 +1,31 @@
+{
+  "name": "GoodBoy",
+  "description": "A graphQL API for dogs",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rin/good-boy"
+  },
+  "keywords": [],
+  "author": "Rin <mail@rin-raeuber.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/rin/good-boy/issues"
+  },
+  "homepage": "https://github.com/rin/good-boy",
+  "dependencies": {
+    "apollo-server-express": "1.4.0",
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "graphql": "14.0.2",
+    "graphql-tools": "4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}

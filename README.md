@@ -1,2 +1,4 @@
 # good-boy
-🐶 A dog API featuring dogs 
+🐶 A GraphQL API featuring dogs 🐶
+
+<image src="./good-boy.png" />
